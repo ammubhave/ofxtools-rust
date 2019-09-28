@@ -1,2 +1,2 @@
-# ofxapi-rust
-Open Financial Exchange (OFX) API in Rust
+# ofxtools-rust
+Open Financial Exchange (OFX) Tools for Rust
