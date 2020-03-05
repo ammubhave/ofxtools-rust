@@ -1,0 +1,13 @@
+[package]
+name = "ofxtools"
+version = "0.1.0"
+authors = ["Amol Bhave <amol@amolbhave.com>"]
+edition = "2018"
+
+[dependencies]
+xml-rs = ""
+clap = { git = "https://github.com/clap-rs/clap/" }
+rust-ini = ""
+log = ""
+itertools = ""
+futures = ""
